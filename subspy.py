@@ -33,3 +33,4 @@ else:
 	f = open(sub_name, "x")
 	f.write(str(subtitle))
 	f.close()
+	print("Subtitle downloaded.")
